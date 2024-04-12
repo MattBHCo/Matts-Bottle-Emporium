@@ -1,0 +1,42 @@
+/* Mattthieu Copping's CSS Print File */
+body {
+       font-family: 'OpenDyslexic-Regular';
+       font-size: 13pt;
+       line-height: 2;
+     }
+h1, h2, h3 {font-family: arial; font-weight: normal ; }
+
+h2 { font-size: 180% ; }
+
+p, h1, h2, h3, ol, ul { margin-top: 0; margin-bottom: 1px; }
+
+ol { padding-left: 0; margin-left: 30px; }
+
+img {padding: 4px; border-width: 1px; border-style: solid; border-color: black; background-color: #ebf5fc ; }
+
+section#section2 { color: green; }
+
+div#jormungandr { width: 1513px; margin-left: auto; margin-right: auto; margin-top: 10px; margin-bottom: 10px; }
+
+a:visited {color:#F7B267; }
+a { font-weight: bold; text-decoration: none; border-bottom: 1px solid red; padding-bottom: 1px; }
+ a:link, a:hover, a:focus, a:active {background-color: none; color: #800080; border-bottom-color: #fdebcf; } 
+
+
+article {width: 500px; padding-left: 10px; }
+nav { display: none; }
+footer {clear: both; padding: 10px; font-size: 75%; height: 1%; background-color: #3C0000; color: #ffffff; border-top: 2px dotted #464646; }
+nav ul { list-style-type: none; border: 1px solid #aabadd; margin-left: 0; padding-left: 5px; border-bottom: none; display: block; line-height: 2; height: 1%; }
+nav a:hover { background-color:white; }
+footer a:link {color: yellow;}
+footer a:hover, footer a:focus, footer a:active {background-color: transparent; border: none;}
+
+table {border: 1px solid black;}
+caption {display: none;}
+thead {color: black; background-color: #cccccc; text-align: left;}
+tbody {font-family: georgia, "times new roman", serif; font-size: 90%; }
+
+
+
+
+
